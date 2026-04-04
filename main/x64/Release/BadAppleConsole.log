@@ -1,0 +1,10 @@
+﻿  ImageerEngineer.cpp
+D:\BadApple\BadAppleConsole\main\ImageConvert\ImageerEngineer.cpp(59,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  0 of 294 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  BadAppleConsole.vcxproj -> D:\BadApple\BadAppleConsole\x64\Release\BadAppleConsole.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

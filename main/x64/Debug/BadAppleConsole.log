@@ -1,0 +1,6 @@
+﻿  ImageerEngineer.cpp
+D:\BadApple\BadAppleConsole\main\ImageConvert\ImageerEngineer.cpp(49,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  LINK : не найден или не выполнена сборка D:\BadApple\BadAppleConsole\x64\Debug\BadAppleConsole.exe при последней инкрементной компоновке; выполняется полная компоновка
+  BadAppleConsole.vcxproj -> D:\BadApple\BadAppleConsole\x64\Debug\BadAppleConsole.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
